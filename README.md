@@ -2,4 +2,4 @@
 
 1. Следовать инстуркциям из https://github.com/deepmodeling/Uni-Mol/tree/main/unimol_docking_v2
 2. Положить файлы из unimol_docking_v2 из этого гитхаба в папку unimol_docking_v2, появившуюся после скачивания через git этого гитхаба https://github.com/deepmodeling/Uni-Mol/tree/main/unimol_docking_v2
-3. Запустить файл plus_qvina_1tqn.sh для получения поз для лигандов в отношении 1tqn
+3. Запустить файл demo_cyp.sh для получения поз для лигандов 
