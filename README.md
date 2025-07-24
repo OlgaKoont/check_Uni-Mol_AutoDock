@@ -1,5 +1,5 @@
 # check_Uni-Mol_AutoDock
 
 1. Следовать инстуркциям из https://github.com/deepmodeling/Uni-Mol/tree/main/unimol_docking_v2
-2. Положить файлы из
-3.  
+2. Положить файлы из unimol_docking_v2 из этого гитхаба в папку unimol_docking_v2, появившуюся после скачивания через git этого гитхаба https://github.com/deepmodeling/Uni-Mol/tree/main/unimol_docking_v2
+3. Запустить файл 
